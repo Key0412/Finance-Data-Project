@@ -18,5 +18,5 @@ The objective was to learn and exercise some capabilities of the following Pytho
 * Plotly  
 
 This exercise is based on the "Python for Data Science and Machine Learning Bootcamp" from John Portilla, at Udemy.  
-You can find more information, graphics and codes in the [jupyter notebook file]().  
+You can find more information, graphics and codes in the [jupyter notebook file](https://github.com/Key0412/Finance-Data-Project/blob/master/03-Finance%20Project.ipynb).  
 **Please note that this is just an exercise, it's not meant to be used to take conclusions of any sort.**
